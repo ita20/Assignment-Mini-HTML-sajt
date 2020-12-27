@@ -1,0 +1,9 @@
+Poštovani,
+
+Informacija: na stranici Literary work je namerno stavljen naslov h1 pa h4, da bi bio u skladu sa poslatim primerom.
+
+Pitanje: Mini HTML sajt je napravljen tako da svaka stranica može biti glavna, tj. startovanjem bilo koje stranice možete preæi na bilo koju drugu. Da li je ovakav koncept dobar, ili se ne preporuèuje?
+
+Sa poštovanjem,
+Slobodan.
+
